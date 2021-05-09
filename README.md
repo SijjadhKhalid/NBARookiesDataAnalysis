@@ -1,4 +1,4 @@
-# NBARookiesDataAnalysis
+# NBA Rookies Data Analysis
 
 This script does a data analysis on the 30 most popular rookies of 2019
 
